@@ -1,15 +1,18 @@
+# alurabooks
 
-<p align="center"> <img src="https://imgur.com/Hy6t2jH.png" alt="HTML e CSS: responsividade com mobile-first"> </p>
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/santanafx/robotron-2000/blob/projeto_inicial/LICENSE)
 
-<hr>
+# Sobre o projeto
 
-<p align="center"> <img src="https://github.com/MonicaHillman/alurabooks/blob/aula05/img/Logo.svg" alt="Logo da alura plus"> </p>
-<p align="center">Um site do e-commerce AluraBooks, uma livraria online de livros sobre tecnologia.</p>
+Projeto desenvolvido pela alura para praticar CSS, HTML, flexbox, grid, figma e API.
 
-## Tecnologias
-* HTML
-* CSS
-* SwiperJS
+# Linguagens de programação utilizadas
 
-## Screenshots
-![Screenshot da tela inicial do AluraBooks](https://imgur.com/6GsjQvJ.png)
+- HTML
+- CSS
+- SwiperJS
+
+# Autor
+
+https://github.com/MonicaHillman
+
