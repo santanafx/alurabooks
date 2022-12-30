@@ -1,6 +1,6 @@
 # alurabooks
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/santanafx/robotron-2000/blob/projeto_inicial/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/santanafx/alurabooks/blob/main/LICENSE)
 
 # Sobre o projeto
 
